@@ -15,6 +15,6 @@ public class Ej1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("hiiiiii");
+        System.out.println("");
     
 }
